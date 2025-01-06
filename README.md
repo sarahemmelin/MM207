@@ -8,7 +8,8 @@ Regler for syntaks:
 
 ---
 Ressurser GIT:
-LinkedInLearning: git - from - scratch med Morten Rand: https://www.linkedin.com/learning/git-from-scratch/git-from-scratch?u=57077761
+LinkedInLearning: git - from - scratch med Morten Rand: 
+https://www.linkedin.com/learning/git-from-scratch/git-from-scratch?u=57077761
 Fra faglærer:
 1. https://www.youtube.com/watch?v=BCQHnlnPusY
 2. https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/
