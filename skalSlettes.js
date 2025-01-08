@@ -1,0 +1,1 @@
+/* Det er laget en .gitignore - fil lokalt */
