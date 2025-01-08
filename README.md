@@ -1,7 +1,7 @@
 #MM207 (in Norwegian)
 Applikasjonsutvikling 2 
 
-![repository-template-Sarah](https://github.com/user-attachments/assets/8e0884cd-ebb8-498b-92a8-4ca550c38027)
+![repository-template-Sarah](https://github.com/user-attachments/assets/0374ea3b-4ae6-42fb-b481-fbaf56499818)
 
 Mappen er strukturert slik etter prosjektoppgaver med underordnede mapper. 
 
