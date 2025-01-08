@@ -1,4 +1,4 @@
-# MM207 NORWEGIAN 
+# MM207 (in Norwegian)
 Applikasjonsutvikling 2 
 
 Mappen er strukturert slik etter prosjektoppgaver med underordnede mapper. 
