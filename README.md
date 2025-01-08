@@ -25,7 +25,7 @@ REGLER FOR SYNTAX
 //------------------------------ BESKRIVELSE -------------------------------------------------
 
 1. Globale variabler skal ligge øverst.
-2. Mer enn 8 AI - kodelinjer må kommenteres med en start og en slutt.??
+2. Kaffe Latte.
 3. Indentér kode.
 4. camelStyle.
 5. Navngies logisk og forklarende.
@@ -35,5 +35,5 @@ REGLER FOR SYNTAX
 9. Ikke mer enn 10 - 15 "code statements" inni en funksjon eller metode. Metoden skal gjøre det den skal, og ikke noe annet (eks: Hvis den skal fetche data fra en server, så skal den ikke sjekke dataen).
 10. Koden skal være rasjonell og logisk.
 11. Bruk konsistent stil (For klassenavn, metoder, sjekker osv.)
-12. For...of
+12. Bruke switch..case hvor det gir mer oversikt. 
 13. Responsivt design --> Grid layout.
