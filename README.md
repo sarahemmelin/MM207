@@ -22,8 +22,10 @@ VSCODE version: 1.96.2
 ---
 
 **SYNTAX**
-
+Jeg er litt distré og trenger egne
 REGLER FOR SYNTAX
+slik at jeg kanskje eller kanskje ikke husker at jeg har laget det.
+
 //------------------------------ BESKRIVELSE -------------------------------------------------
 
 1. Globale variabler skal ligge øverst.
